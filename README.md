@@ -50,7 +50,7 @@ Contribuidor: https://github.com/patyboian
 ## Codigo da função soma
 
 '''javascript
-funtion soma(a,b){
+function soma(a,b){
     return a + b;
 }
 '''
