@@ -30,3 +30,8 @@ __Melhoria 1__, _melhoria 2_
 #### Imagem local
 
 ![Logo do VSCode](img/vscode.png)
+
+
+#### Imagem externa
+
+![Logo do Instagran](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png)
